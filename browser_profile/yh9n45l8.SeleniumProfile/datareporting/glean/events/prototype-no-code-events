@@ -1,0 +1,8 @@
+{"timestamp":12928908,"category":"browser.usage","name":"interaction","extra":{"widget_id":"browser-window-maximize-button","glean_timestamp":"1722000187394","flow_id":"{d0da109e-6043-4d89-a0f0-b452ea4b323e}","source":"tabs-bar"}}
+{"timestamp":12930288,"category":"browser.usage","name":"interaction","extra":{"glean_timestamp":"1722000188774","flow_id":"{d0da109e-6043-4d89-a0f0-b452ea4b323e}","source":"tabs-bar","widget_id":"tab-close-button"}}
+{"timestamp":12931515,"category":"browser.usage","name":"interaction","extra":{"widget_id":"tabs-newtab-button","source":"tabs-bar","flow_id":"{d0da109e-6043-4d89-a0f0-b452ea4b323e}","glean_timestamp":"1722000190001"}}
+{"timestamp":12932154,"category":"browser.usage","name":"interaction","extra":{"glean_timestamp":"1722000190640","source":"tabs-bar","widget_id":"tab-close-button","flow_id":"{d0da109e-6043-4d89-a0f0-b452ea4b323e}"}}
+{"timestamp":12965150,"category":"browser.usage","name":"interaction","extra":{"source":"tabs-bar","glean_timestamp":"1722000223636","widget_id":"tabs-newtab-button","flow_id":"{d0da109e-6043-4d89-a0f0-b452ea4b323e}"}}
+{"timestamp":12970741,"category":"browser.usage","name":"interaction","extra":{"flow_id":"{d0da109e-6043-4d89-a0f0-b452ea4b323e}","glean_timestamp":"1722000229227","widget_id":"tab-close-button","source":"tabs-bar"}}
+{"timestamp":12974247,"category":"browser.usage","name":"interaction","extra":{"flow_id":"{d0da109e-6043-4d89-a0f0-b452ea4b323e}","source":"tabs-bar","widget_id":"tabs-newtab-button","glean_timestamp":"1722000232733"}}
+{"timestamp":12975002,"category":"browser.usage","name":"interaction","extra":{"glean_timestamp":"1722000233488","source":"tabs-bar","widget_id":"tab-close-button","flow_id":"{d0da109e-6043-4d89-a0f0-b452ea4b323e}"}}
